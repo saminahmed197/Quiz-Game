@@ -1,0 +1,10 @@
+pp 1
+prity 4
+p 1
+pp 2
+samin 1
+p 0
+ppp 0
+p 0
+p 0
+prity 0
